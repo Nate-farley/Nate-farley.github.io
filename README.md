@@ -9,8 +9,8 @@ This repository is used to maintain my portfolio. Feel free to clone it and use 
 ### Installation and How To Run
 
 ```
-* Clone the repository: git clone
-* Run the client: npm run start
+* git clone https://github.com/Nate-farley/Nate-farley.github.io.git //clone the repository
+* npm run start //run the client
 ```
 
 ## Roadmap of Future Improvement
