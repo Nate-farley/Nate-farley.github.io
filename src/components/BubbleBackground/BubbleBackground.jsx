@@ -7,7 +7,7 @@ import {ReactComponent as BubbleThree} from '../../images/bubble_three.svg'
 const BubbleBackground = () => {
     return (
         <div id='bubble-container' className='position-absolute w-100 h-100'>
-                 <div id='bubble-one' style={{width: 600, height: 400}}>
+            <div id='bubble-one' style={{width: 600, height: 400}}>
                 <BubbleOne />
             </div>
 

@@ -31,6 +31,19 @@ const Portfolio = () => {
                                 <p className='text-secondary'>
                                     I am a full stack software developer with 1+ years of experience developing web applications.  My skillset includes React, Redux, Bootstrap, Express and MongoDB.  In my spare time I also enjoy reading and real estate.  If you would like to work together or collaborate on a project feel free to reach out to me.
                                 </p>
+                                <div className='d-flex align-items-center flex-row'>
+                                    <a>
+                                        Contact Links:
+                                    </a>
+
+                                    <a className='nav-link' href='https://github.com/Nate-farley'>
+                                        Github
+                                    </a>
+
+                                    <a className='nav-link' href='https://www.linkedin.com/in/nathan-farley-46a7a7a3/'>
+                                        LinkedIn
+                                    </a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -51,7 +64,7 @@ const Portfolio = () => {
                             <div className='card shadow mx-2' style={{width: 500, height: 'auto'}}>
                                 <div className='card-body d-flex flex-column align-items-start'>
                                     <h5 class="card-title">{project.title}</h5>
-                                    <div style={{height: 65}}>
+                                    <div style={{height: 160}}>
                                     <p class="card-text">{project.description}</p>
                                     </div>
                                     <a href={project.link} class="btn btn-primary text-white">View on Github</a>

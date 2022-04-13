@@ -2,6 +2,14 @@
     z-index: 999;
 }
 
+#photo-container {
+    padding-top: 50px;
+}
+
+#video {
+    z-index: 999;
+}
+
 #landing-page-container {
     width: 100vw;
     height: calc(100vh - 80px);

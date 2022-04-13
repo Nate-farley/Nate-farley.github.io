@@ -7,13 +7,10 @@ import Portfolio from './components/Portfolio/Portfolio';
 function App() {
   return (
     <div className="App">
-            <BubbleBackground />
+      <BubbleBackground />
       <NavBar />
-      
       <LandingPage />
-
       <Portfolio />
-      
     </div>
   );
 }
