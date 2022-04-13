@@ -1,0 +1,14 @@
+.about-me-card {
+    position: absolute;
+    top: -100px;
+    width: 100%;
+    height: 200px;
+}
+
+.projects {
+   
+}
+
+.no-border {
+    border: '0px solid #fff';
+}
