@@ -1347,23 +1347,8 @@ button:not(:disabled) {
   color: #161c2d;
 }
 
-.tns-nav {
-  text-align: center;
-}
 
-.tns-nav button {
-  -webkit-transition: all 0.5s ease;
-  transition: all 0.5s ease;
-  background: rgba(0, 123, 255, 0.7);
-  border-radius: 3px;
-  width: 8px;
-  height: 5px;
-  margin: 5px;
-}
 
-.tns-nav button.tns-nav-active {
-  background: #007bff !important;
-}
 
 .main-timeline:after {
   content: '';
