@@ -1,10 +1,4 @@
-/* Template Name: Queue - Personal Responsive Landing Template
-   Author:        Zoyothemes
-   E-mail:        zoyothemes@gmail.com
-   Created:       July 2021
-   Version:       1.1
-   File Description: Main JS file of the template
-*/
+
 
 
 /*--------------------------*/
