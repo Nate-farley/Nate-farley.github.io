@@ -39,7 +39,7 @@ function validateForm() {
   xhttp.open("POST", "php/contact.php", true);
   xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
   xhttp.send("name=" + name + "&email=" + email + "&subject=" + subject + "&comments=" + comments);
-  return false;
+  return true;
 }
 function fadeIn() {
   var fade = document.getElementById("error-msg");
