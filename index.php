@@ -1,1 +1,1 @@
-<?php include('index.htem'); ?>
+<?php include(' Location: /index.htem') ; ?>
