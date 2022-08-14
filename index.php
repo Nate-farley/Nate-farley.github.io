@@ -515,7 +515,7 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-12">
                         <div class="custom-form mb-sm-30">
-                            <form method="post" action="<?php include("contact.php"); ?>" name="myForm" onsubmit="return validateForm()">
+                            <form method="post" action="" name="myForm" onsubmit="return validateForm()">
                                 <p id="error-msg"></p>
                                 <div id="simple-msg"></div>
                                 <div class="row">
