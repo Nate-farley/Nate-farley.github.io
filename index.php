@@ -1,6 +1,6 @@
 <?php
 
-if($_POST) exit;
+if(!$_POST) exit;
 
 // Email address verification, do not edit.
 function isEmail($email) {
