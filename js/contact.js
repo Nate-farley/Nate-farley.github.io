@@ -36,7 +36,7 @@ function validateForm() {
       document.forms["myForm"]["comments"].value = "";
     }
   };
-  xhttp.open("POST", "", true);
+  xhttp.open("POST", "index.php", true);
   xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
   xhttp.send("name=" + name + "&email=" + email + "&subject=" + subject + "&comments=" + comments);
   return true;
