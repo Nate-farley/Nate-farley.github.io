@@ -30,10 +30,10 @@ function validateForm() {
   xhttp.onreadystatechange = function () {
     if (this.readyState == 4 && this.status == 200) {
       document.getElementById("simple-msg").innerHTML = this.responseText;
-      document.forms["myForm"]["name"].value = "";
-      document.forms["myForm"]["email"].value = "";
-      document.forms["myForm"]["subject"].value = "";
-      document.forms["myForm"]["comments"].value = "";
+      document.forms["myForm"]["name"].value = "nathan";
+      document.forms["myForm"]["email"].value = "natefarley@live.com";
+      document.forms["myForm"]["subject"].value = "hello";
+      document.forms["myForm"]["comments"].value = "hello";
     }
   };
   xhttp.open("POST", "./index.php", true);
