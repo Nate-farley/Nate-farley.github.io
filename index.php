@@ -516,6 +516,7 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-12">
                         <div class="custom-form mb-sm-30">
+                            <div id="message-box"></div>
                             <form method="post" action="https://formsubmit.io/send/f5ff63bd-16a7-4d25-aaa6-192e97d6e52e" name="myForm" id="contact-form">
                                 <p id="error-msg"></p>
                                 <div id="simple-msg"></div>
