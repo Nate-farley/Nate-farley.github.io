@@ -601,7 +601,7 @@ if(mail($address, $e_subject, $msg, $headers)) {
                 <div class="row justify-content-center">
                     <div class="col-lg-12">
                         <div class="custom-form mb-sm-30">
-                            <form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>" name="myForm" onsubmit="return validateForm()">
+                            <form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>" name="myForm" onsubmit="">
                                 <p id="error-msg"></p>
                                 <div id="simple-msg"></div>
                                 <div class="row">
