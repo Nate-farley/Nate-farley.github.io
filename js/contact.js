@@ -10,7 +10,7 @@ $('#contact-form').submit(function(e) {
       message = '<div class="error_message">Please enter a valid email address.</div>';
     } else if($('#subject').val() == "" || $.trim($('#subject').val()) == "") {
       message = '<div class="error_message">You must enter subject.</div>';
-    } else if($('#message').val() == "" || $.trim($('#message').val()) == "") {
+    } else if($('#comments').val() == "" || $.trim($('#comments').val()) == "") {
       message = '<div class="error_message">You must enter your message.</div>';
     }
     if(message != "") {
@@ -34,7 +34,7 @@ $('#contact-form').submit(function(e) {
                   name: $('#name').val(),
                   email: $('#email').val(),
                   subject: $('#subject').val(),
-                  message: $('#message').val(),
+                  message: $('#comments').val(),
               },
               function(data) {
                   document.getElementById('message-box').innerHTML = data;
