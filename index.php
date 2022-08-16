@@ -335,7 +335,7 @@
         <section class="cta-full">
             <div class="container">
                 <div class="row position-relative">
-                    <div class=" col-lg-4 padding-less img" style="background-image:url('images/Nathan4.png')" data-jarallax='{"speed": 5}'></div><!-- end col -->
+                    <div class=" col-lg-4 padding-less img" style="background-image:url('images/Nathan5.png')" data-jarallax='{"speed": 5}'></div><!-- end col -->
                     <div class="col-lg-8 offset-lg-5">
                         <div class="cta-full-img-box">
                             <div class="row justify-content-center">
