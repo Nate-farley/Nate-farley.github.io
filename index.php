@@ -85,7 +85,7 @@
                             <h1 class="heading font-36 text-white mt-5">Nathan Farley</h1>
                             <div class="hero-btn mt-4 pt-2">
                                 <a href="#contact" class="btn btn-primary rounded me-2 mb-2">Contact Me</a>
-                                <a href="" class="btn btn-primary rounded text-white mb-2" download="Nathan Farley Resume" rel="noopener noreferrer" target="_blank">Download CV <i data-feather="download" class="fea icon-sm"></i></a>
+                                <a href="javascript:void(0)" class="btn btn-primary rounded text-white mb-2" download="Nathan Farley Resume" rel="noopener noreferrer" target="_blank">Download CV <i data-feather="download" class="fea icon-sm"></i></a>
                             </div>
                         </div>
                     </div>
@@ -100,15 +100,14 @@
                         <div class="card public-profile border-0 rounded shadow no-margin" style="z-index: 1;">
                             <div class="card-body">
                                 <div class="row align-items-center">
-                                    <div class="col-lg-3 col-md-4 text-md-start">
-                                        <!--<img src="images/client/05.jpg" class="avatar avatar-large rounded-circle shadow d-block mx-auto" alt="">--> 
+                                    <div class="col-lg-3 col-md-4 text-md-start"> 
                                         <div class="about-details key-feature bg-light">
                                             <div class="media-body content">
                                                 <h6 class="title mb-2">Personal Details</h6>
                                                 <div class="bor-bottom mt-2 mb-2"></div>
-                                                <p class="text-muted mb-2 mt-3 font-14"><a href="javascript:void(0)" class="text-black">Email: </a> Natefarley@live.com </p>
-                                                <p class="text-muted mb-2 font-14"><a href="javascript:void(0)" class="text-black">Languages: </a> English</p>
-                                                <p class="text-muted mb-0 font-14"><a href="javascript:void(0)" class="text-black">Nationality: </a> Chinese</p>  
+                                                <p class="text-muted mb-2 mt-3 font-14">Email: Natefarley@live.com </p>
+                                                <p class="text-muted mb-2 font-14">Languages: English</p>
+                                                <p class="text-muted mb-0 font-14">Nationality: Chinese</p>  
                                             </div>
                                         </div>
                                     </div>
