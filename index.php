@@ -85,7 +85,7 @@
                             <h1 class="heading font-36 text-white mt-5">Nathan Farley</h1>
                             <div class="hero-btn mt-4 pt-2">
                                 <a href="#contact" class="btn btn-primary rounded me-2 mb-2">Contact Me</a>
-                                <a href="/resume/nathan farley resume 2022.docx" class="btn btn-primary rounded text-white mb-2" download="Nathan Farley Resume" rel="noopener noreferrer" target="_blank">Download CV <i data-feather="download" class="fea icon-sm"></i></a>
+                                <a href="" class="btn btn-primary rounded text-white mb-2" download="Nathan Farley Resume" rel="noopener noreferrer" target="_blank">Download CV <i data-feather="download" class="fea icon-sm"></i></a>
                             </div>
                         </div>
                     </div>
